@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Poonam810/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Poonam810/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Poonam810/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
