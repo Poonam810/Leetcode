@@ -8,5 +8,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Poonam810/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Hash Table
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poonam810/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
